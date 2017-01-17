@@ -1,0 +1,5 @@
+﻿  vrshader.cpp
+c:\users\timmy\documents\vrshader\vrshader.cpp(293): warning C4477: 'fprintf' : format string '%f' requires an argument of type 'double', but variadic argument 2 has type 'time_t'
+c:\users\timmy\documents\vrshader\vrshader.cpp(406): warning C4715: 'WinMain': not all control paths return a value
+  vrshader.vcxproj -> C:\Users\timmy\Documents\vrshader\x64\Debug\vrshader.exe
+  vrshader.vcxproj -> C:\Users\timmy\Documents\vrshader\x64\Debug\vrshader.pdb (Partial PDB)
